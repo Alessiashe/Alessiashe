@@ -1,0 +1,73 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am alessiashe on github.
+  * I am alessia_ (https://keybase.io/alessia_) on keybase.
+  * I have a public key ASD8SY_0bUd_gadC7nAuCDXgZO0bKYAHFsRbtewbQAXNdQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fc498ff46d477f81a742ee702e0835e064ed1b29800716c45bb5ec1b4005cd750a",
+      "host": "keybase.io",
+      "kid": "0120fc498ff46d477f81a742ee702e0835e064ed1b29800716c45bb5ec1b4005cd750a",
+      "uid": "23ea6a5fa3ae71448812dbd959da9219",
+      "username": "alessia_"
+    },
+    "merkle_root": {
+      "ctime": 1660819454,
+      "hash": "414ce26f8710c973c4a87ebec91cd80d477e9f58eedc4633f92616cf7dd03e6e6afd61c3fae721d14f85768babbf14f51653bb033e249d4668f95768b1df2391",
+      "hash_meta": "9f4b63fe913cced906e76d223d39258bdbf1eab6892caf036413fd729b5d1536",
+      "seqno": 23044854
+    },
+    "service": {
+      "entropy": "iiVLlNZCSI4l61NNzhi657hK",
+      "name": "github",
+      "username": "alessiashe"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1660819496,
+  "expire_in": 504576000,
+  "prev": "7760142725ff1f2d6641707d1975975b99069c5c2aa61b81ec6dabd1d95da26f",
+  "seqno": 11,
+  "tag": "signature"
+}
+```
+
+with the key [ASD8SY_0bUd_gadC7nAuCDXgZO0bKYAHFsRbtewbQAXNdQo](https://keybase.io/alessia_), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/EmP9G1Hf4GnQu5wLgg14GTtGymABxbEW7XsG0AFzXUKp3BheWxvYWTESpcCC8Qgd2AUJyX/Hy1mQXB9GXWXW5kGnFwqphuB7G2r0dldom/EIJZUskVSXm2Kws/uC+PeLXIfm8z/tnPARr47Ix6iuQvhAgHCo3NpZ8RA133hcmoUyI+niL7J1Vz/bEx1LxOUuWcCarkVh28gM9+GDgZf4JnZNYGkH8zDbaAzIXM2QbCOcYT4mqJ3pxTaAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBSvHZXNvCyoZBH32c6NGRo6Xi+vDMojdXLI15gdpHATo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/alessia_
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id alessia_
+```
+
+
+<!---
+Alessiashe/Alessiashe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
